@@ -42,7 +42,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/giselascarpin/" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="profile-linkedin" height="30" width="40" />
+  <img align="center" src="https://img.icons8.com/glyph-neue/100/FFFFFF/linkedin.png" alt="profile-linkedin" height="40" width="40"/>
 </a>
 </p>
 
