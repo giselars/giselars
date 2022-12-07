@@ -2,8 +2,6 @@
 
 <br>
 
-##
-
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%">, I'm Gisela</h1>
 <h3 align="center">✨ I am a frontend developer 💻 </h3>
 
@@ -24,15 +22,12 @@
   <img align="center" src="https://img.icons8.com/glyph-neue/100/FFFFFF/linkedin.png" alt="profile-linkedin" height="40" width="40"/>
 </a>
 </p>
-
-<br>
 <br>
 
 ##
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=giselars" alt="giselars" /></a> </p>
-<br>
-<br>
+
 
 
 <div align='center'>
