@@ -26,10 +26,12 @@
 
 ##
 
+<br>
+<br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=giselars" alt="giselars" /></a> </p>
 
 
-
+<br>
 <div align='center'>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=giselars&show_icons=true&locale=en&theme=jolly&include_all_commits=true&count_private=true" alt="giselars" /></p>
 </div>
@@ -40,11 +42,11 @@
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=giselars&&theme=jolly&include_all_commits=true&count_private=true" alt="giselars" /></p>
 </div>
 <br>
-<br>
-<br> 
+
 
 ##
 
+<br>
 <h3 align="center">Languages and Tools</h3>
 <div align="center">
   <div style="display: inline_block"><br>
@@ -64,8 +66,7 @@
 </div>
 <br>
 <br>
-<br>
-<br>                                                                                                                                                
+                                                                                                                                              
 
 
 
