@@ -30,19 +30,12 @@ const gise = {
   location: "Spain 🇪🇸",
   languages: ["Spanish (Native)", "English (Basic - improving!)"],
   currentFocus: ["Building clean, user-friendly web applications"],
-  stack: [
-    "React",
-    "Vue",
-    "TypeScript",
-    "AI Tools",
-    "Node.js",
-    "PHP",
-    "Wordpress",
-    "Python",
-    "AI/ML",
-    "Automation",
-    "n8n",
-  ],
+  stack: {
+    frontend: ["React", "Vue", "TypeScript"],
+    backend: ["Node.js", "PHP", "Python"],
+    cms: ["WordPress"],
+    aiAndAutomation: ["AI Tools", "AI/ML", "Automation", "n8n"],
+  },
   interests: ["Web Development", "UI/UX", "AI Integration", "Automation"],
 };
 ```
