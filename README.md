@@ -11,11 +11,11 @@
 
 <div align="center">
   
-### Frontend Developer · Exploring Full-stack & AI 🚀
+### Software Engineer • Full-stack dev • AI-powered solutions 🚀
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-E6B8D7?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/giselascarpin)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-B8E6D7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://giselars.com)
-[![Email](https://img.shields.io/badge/Email-Contact-FFD4B8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-B8E6D7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://giselars.github.io/webportfolio/)
+[![Email](https://img.shields.io/badge/Email-Contact-FFD4B8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gisela.contactme@gmail.com)
 
 </div>
 
@@ -23,21 +23,33 @@
 
 ## 👨‍💻 About Me
 
-I'm a **frontend developer** passionate about creating modern, responsive, and user-friendly web experiences. Currently expanding into **full-stack development** and exploring the exciting world of **AI tools and automation**.
+> I'm a **software engineer & full-stack developer** focused on building modern, scalable applications. I specialize in integrating **AI tools and automation** to create smarter, more efficient user experiences.
 
 ```javascript
 const gise = {
   location: "Spain 🇪🇸",
   languages: ["Spanish (Native)", "English (Basic - improving!)"],
-  currentFocus: ["React", "Vue", "TypeScript", "AI Tools"],
-  learning: ["Node.js", "Python", "AI/ML", "Automation"],
+  currentFocus: ["Building clean, user-friendly web applications"],
+  stack: [
+    "React",
+    "Vue",
+    "TypeScript",
+    "AI Tools",
+    "Node.js",
+    "PHP",
+    "Wordpress",
+    "Python",
+    "AI/ML",
+    "Automation",
+    "n8n",
+  ],
   interests: ["Web Development", "UI/UX", "AI Integration", "Automation"],
 };
 ```
 
-- ⚛️ Working mainly with **React**, **Vue** and **TypeScript**
+- 💻 I design and develop tailor-made digital solutions
 - 🤖 Exploring **AI tools** and how to integrate them into web apps
-- 💻 I enjoy building **landing pages, dashboards and web apps**
+- 📊 I enjoy building **landing pages, dashboards and web apps**
 - 🌍 Open to **remote collaboration** (working on my English!)
 - 📚 Continuous learner, always improving my craft
 - 🤝 Available for **freelance projects** and collaborations
@@ -46,7 +58,7 @@ const gise = {
 
 ## 🛠️ Tech Stack
 
-### Frontend Development
+### Full-Stack Development
 
 <div align="center">
 
@@ -57,6 +69,9 @@ const gise = {
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/Php-7A86B8?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
@@ -77,17 +92,15 @@ const gise = {
 
 <div align="center">
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![AI](https://img.shields.io/badge/AI_Models-35495E?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Automation](https://img.shields.io/badge/Automation-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
 
 </div>
 
-> 💡 **Main focus:** Frontend development with React & Vue  
-> 🎯 **Expanding into:** Full-stack development & AI integration  
-> 🤖 **Exploring:** AI models (GPT, Claude, Gemini, etc.), n8n automation, and intelligent workflows
+> 💡 **Core focus:** Full-stack development & AI integration  
+> 🎯 **Currently expanding into:** AI platforms (GPT, Claude, Gemini, etc.), n8n automation, and intelligent workflows  
+> 🤝 **Committed to:** Providing the best solutions for my clients
 
 ---
 
@@ -164,9 +177,9 @@ I'm always open to interesting conversations and collaboration opportunities!
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-E6B8D7?style=for-the-badge&logo=linkedin&logoColor=gray)](https://linkedin.com/in/giselascaripin)
-[![Email](https://img.shields.io/badge/Gmail-FFD4B8?style=for-the-badge&logo=gmail&logoColor=gray)](mailto:tu-email@example.com)
-[![Workana](https://img.shields.io/badge/Workana-B8E6D7?style=for-the-badge&logo=workana&logoColor=gray)](link-to-workana)
-[![Portfolio](https://img.shields.io/badge/Portfolio-E8C4FF?style=for-the-badge&logo=google-chrome&logoColor=gray)](https://giselars.com)
+[![Email](https://img.shields.io/badge/Gmail-FFD4B8?style=for-the-badge&logo=gmail&logoColor=gray)](mailto:gisela.contactme@gmail.com)
+[![Workana](https://img.shields.io/badge/Workana-B8E6D7?style=for-the-badge&logo=workana&logoColor=gray)](https://www.workana.com/freelancer/80229d2680ad76e26b08c898b31a40a0)
+[![Portfolio](https://img.shields.io/badge/Portfolio-E8C4FF?style=for-the-badge&logo=google-chrome&logoColor=gray)](https://giselars.github.io/webportfolio/)
 
 </div>
 
