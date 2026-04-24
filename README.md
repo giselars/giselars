@@ -47,7 +47,6 @@ My work is focused on creating software and AI-powered tools that help optimize 
 
 - Website: [kognial.com](https://www.kognial.com/)
 - LinkedIn: [linkedin.com/in/giselascarpin](https://linkedin.com/in/giselascarpin)
-- Email: [giselascarpin@gmail.com](mailto:giselascarpin@gmail.com)
 
 ---
 
