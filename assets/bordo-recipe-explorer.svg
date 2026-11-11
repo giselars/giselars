@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="208" viewBox="0 0 480 208" role="img" aria-labelledby="title desc">
+  <title id="title">Recipe Explorer — Recipe Discovery</title>
+  <desc id="desc">Discover recipes with API-powered search, country filters and interactive cooking guides. Next.js, TypeScript, REST APIs. View project.</desc>
+  <defs>
+    <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#321019"/><stop offset="1" stop-color="#1b070c"/>
+    </linearGradient>
+    <linearGradient id="edge">
+      <stop stop-color="#8b3d50"/><stop offset="0.5" stop-color="#e8a598"/><stop offset="1" stop-color="#57202f"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="478" height="206" rx="16" fill="url(#surface)" stroke="#713344"/>
+  <path d="M25 1.5H455" stroke="url(#edge)" stroke-opacity="0.65"/>
+  <g transform="translate(25 19)" fill="none" stroke="#e8a598" stroke-width="1.35" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+    <path d="M3 1.5H13V14.5H3A2 2 0 0 1 1 12.5V3.5A2 2 0 0 1 3 1.5Z"/>
+    <path d="M1 12.5A2 2 0 0 1 3 10.5H13M4 4.5H9M4 7H8"/>
+  </g>
+  <text x="49" y="31" fill="#dca09a" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" letter-spacing="1.7">RECIPE DISCOVERY</text>
+  <text x="24" y="75" fill="#fceade" font-family="Georgia, Times New Roman, serif" font-size="32">Recipe Explorer</text>
+  <circle cx="440" cy="43" r="17" fill="#3c1420" stroke="#75404c"/>
+  <path d="M434 49L446 37M435 37H446V48" fill="none" stroke="#dca09a" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="25" y="106" fill="#d9b6b0" font-family="Arial, Helvetica, sans-serif" font-size="14">Discover recipes with API-powered search,</text>
+  <text x="25" y="127" fill="#d9b6b0" font-family="Arial, Helvetica, sans-serif" font-size="14">country filters and interactive cooking guides.</text>
+  <path d="M25 150H455" stroke="#5d2a37"/>
+  <rect x="25" y="164" width="65" height="25" rx="12.5" fill="#321018" stroke="#60303b"/>
+<text x="57.5" y="180.5" text-anchor="middle" fill="#e8c5bd" font-family="Arial, Helvetica, sans-serif" font-size="11">Next.js</text><rect x="97" y="164" width="84" height="25" rx="12.5" fill="#321018" stroke="#60303b"/>
+<text x="139.0" y="180.5" text-anchor="middle" fill="#e8c5bd" font-family="Arial, Helvetica, sans-serif" font-size="11">TypeScript</text><rect x="188" y="164" width="82" height="25" rx="12.5" fill="#321018" stroke="#60303b"/>
+<text x="229.0" y="180.5" text-anchor="middle" fill="#e8c5bd" font-family="Arial, Helvetica, sans-serif" font-size="11">REST APIs</text>
+  <text x="455" y="180.5" text-anchor="end" fill="#dca09a" font-family="Arial, Helvetica, sans-serif" font-size="11">View project</text>
+</svg>

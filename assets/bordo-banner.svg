@@ -1,0 +1,72 @@
+<svg width="1200" height="360" role="img" aria-labelledby="title description" preserveAspectRatio="xMidYMid meet" viewBox="0 0 1200 360" xmlns="http://www.w3.org/2000/svg">
+<title id="title">Gisela Rosibel Scarpin</title>
+<desc id="description">Gisela Rosibel Scarpin — Software Engineer. UX/UI Design, Frontend and Fullstack.</desc>
+<defs>
+<clipPath id="rounded"><rect width="1200" height="360" rx="18"/></clipPath>
+<linearGradient id="bordoBg" x1="0%" x2="100%" y1="0%" y2="100%">
+<stop offset="0%" stop-color="#180409"></stop>
+<stop offset="45%" stop-color="#4a0e17"></stop>
+<stop offset="85%" stop-color="#721c29"></stop>
+<stop offset="100%" stop-color="#8b1e3f"></stop>
+</linearGradient>
+<linearGradient id="bordoGlow" x1="0%" x2="100%" y1="0%" y2="0%">
+<stop offset="0%" stop-color="#e89182"></stop>
+<stop offset="50%" stop-color="#fceade"></stop>
+<stop offset="100%" stop-color="#f8c8b8"></stop>
+</linearGradient>
+<radialGradient cx="20%" cy="30%" id="orb1" r="60%">
+<stop offset="0%" stop-color="#c94b63" stop-opacity="0.6"></stop>
+<stop offset="100%" stop-color="#c94b63" stop-opacity="0"></stop>
+</radialGradient>
+<radialGradient cx="80%" cy="70%" id="orb2" r="50%">
+<stop offset="0%" stop-color="#e8a598" stop-opacity="0.45"></stop>
+<stop offset="100%" stop-color="#e8a598" stop-opacity="0"></stop>
+</radialGradient>
+<filter id="softBlur">
+<feGaussianBlur stdDeviation="30"></feGaussianBlur>
+</filter>
+</defs>
+<g clip-path="url(#rounded)">
+<!-- Background Base -->
+<rect fill="url(#bordoBg)" height="360" width="1200"></rect>
+<!-- Ambient Glow Orbs -->
+<circle cx="220" cy="110" fill="url(#orb1)" filter="url(#softBlur)" r="230"></circle>
+<circle cx="980" cy="240" fill="url(#orb2)" filter="url(#softBlur)" r="260"></circle>
+<!-- Playful Decorative Candy Circles & Sparkles -->
+<circle cx="1060" cy="90" fill="#fceade" fill-opacity="0.08" r="50"></circle>
+<circle cx="1120" cy="140" fill="#e89182" fill-opacity="0.3" r="24"></circle>
+<circle cx="90" cy="270" fill="#f8c8b8" fill-opacity="0.12" r="60"></circle>
+<circle cx="140" cy="70" fill="#fceade" fill-opacity="0.25" r="18"></circle>
+<!-- Cute Candy Sparkle Stars -->
+<g fill="#fceade" opacity="0.85" transform="translate(1030, 285) scale(0.9)">
+<path d="M0 -15 C0 -5 5 0 15 0 C5 0 0 5 0 15 C0 5 -5 0 -15 0 C-5 0 0 -5 0 -15 Z"></path>
+</g>
+<g fill="#f8c8b8" opacity="0.9" transform="translate(1080, 200) scale(1.1)">
+<path d="M0 -18 C0 -6 6 0 18 0 C6 0 0 6 0 18 C0 6 -6 0 -18 0 C-6 0 0 -6 0 -18 Z"></path>
+</g>
+<g fill="#e89182" opacity="0.8" transform="translate(680, 50) scale(0.7)">
+<path d="M0 -16 C0 -5 5 0 16 0 C5 0 0 5 0 16 C0 5 -5 0 -16 0 C-5 0 0 -5 0 -16 Z"></path>
+</g>
+<!-- Centered / Aligned Content -->
+<g transform="translate(90, 85)">
+<!-- Main Title -->
+<text fill="#fceade" font-family="Georgia, Times New Roman, serif" font-size="66" font-weight="400" letter-spacing="-1" x="0" y="65">Gisela Rosibel Scarpin</text>
+<!-- Subtitle -->
+<text fill="url(#bordoGlow)" font-family="'DM Sans', sans-serif" font-size="22" font-weight="500" letter-spacing="0.2" x="0" y="112">
+      Software Engineer
+    </text>
+<!-- Pill Tags row -->
+<g transform="translate(0, 152)">
+<!-- Pill 1 -->
+<rect fill="#fceade" fill-opacity="0.15" height="32" rx="16" stroke="#fceade" stroke-opacity="0.3" width="138" x="0" y="0"></rect>
+<text fill="#fceade" font-family="'DM Sans', sans-serif" font-size="13" font-weight="700" text-anchor="middle" x="69" y="21">UX/UI Design</text>
+<!-- Pill 2 -->
+<rect fill="#fceade" fill-opacity="0.15" height="32" rx="16" stroke="#fceade" stroke-opacity="0.3" width="144" x="150" y="0"></rect>
+<text fill="#fceade" font-family="'DM Sans', sans-serif" font-size="13" font-weight="700" text-anchor="middle" x="222" y="21">Frontend</text>
+<!-- Pill 3 -->
+<rect fill="#fceade" fill-opacity="0.15" height="32" rx="16" stroke="#fceade" stroke-opacity="0.3" width="168" x="306" y="0"></rect>
+<text fill="#fceade" font-family="'DM Sans', sans-serif" font-size="13" font-weight="700" text-anchor="middle" x="390" y="21">Fullstack</text>
+</g>
+</g>
+</g>
+</svg>

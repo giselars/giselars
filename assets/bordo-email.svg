@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="140" height="34" viewBox="0 0 140 34" role="img" aria-label="Get in touch">
+  <defs><linearGradient id="button-fill"><stop stop-color="#8b1e3f"/><stop offset="1" stop-color="#c94b63"/></linearGradient></defs>
+  <rect x="0.5" y="0.5" width="139" height="33" rx="16.5" fill="url(#button-fill)" stroke="#c94b63"/>
+  <svg x="17" y="10" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#ffffff"><path d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path></svg>
+  <text x="40" y="21.5" fill="#fceade" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">Get in touch</text>
+</svg>
