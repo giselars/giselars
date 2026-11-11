@@ -32,11 +32,11 @@
 ## ✦ Featured Projects
 
 <p align="center">
-  <a href="https://github.com/giselars/dear-paper-app"><img src="./assets/bordo-dear-paper-app.svg" width="434" alt="dear-paper-app — Personalized book cover editor. TypeScript, React and Canvas / UI." /></a>
-  <a href="https://github.com/giselars/matcha-ritual-web"><img src="./assets/bordo-matcha-ritual-web.svg" width="434" alt="matcha-ritual-web — Editorial matcha landing page. Astro, CSS Modules and Editorial UX." /></a>
+  <a href="https://github.com/giselars/dear-paper-app"><img src="./assets/bordo-dear-paper-app.svg" width="49%" alt="dear-paper-app — Personalized book cover editor. TypeScript, React and Canvas / UI." /></a>
+  <a href="https://github.com/giselars/matcha-ritual-web"><img src="./assets/bordo-matcha-ritual-web.svg" width="49%" alt="matcha-ritual-web — Editorial matcha landing page. Astro, CSS Modules and Editorial UX." /></a>
   <br/>
-  <a href="https://github.com/giselars/recipe-explorer"><img src="./assets/bordo-recipe-explorer.svg" width="434" alt="recipe-explorer — API-powered recipe discovery. Next.js, TypeScript and REST APIs." /></a>
-  <a href="https://app.pen.dev/s/j0k_dnmCAbLNuFeKhBCQyTh4EOykU3xKulfW0YpA06k"><img src="./assets/bordo-dear-paper-case-study.svg" width="434" alt="Dear Paper — UI Design Case Study. Explore the screen designs in Pen." /></a>
+  <a href="https://github.com/giselars/recipe-explorer"><img src="./assets/bordo-recipe-explorer.svg" width="49%" alt="recipe-explorer — API-powered recipe discovery. Next.js, TypeScript and REST APIs." /></a>
+  <a href="https://app.pen.dev/s/j0k_dnmCAbLNuFeKhBCQyTh4EOykU3xKulfW0YpA06k"><img src="./assets/bordo-dear-paper-case-study.svg" width="49%" alt="Dear Paper — UI Design Case Study. Explore the screen designs in Pen." /></a>
 </p>
 
 ---
